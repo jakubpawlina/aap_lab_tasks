@@ -6,4 +6,6 @@ matplotlib
 numpy
 pyspark
 pytest
+seaborn
+pymongo
 
