@@ -22,3 +22,7 @@ otomoto_offers_eng_23-04-2023.csv
 
 # Output
 **/output/
+**/_workspace/flaky_cache/**
+**/_workspace/*.py
+**/_workspace/*json*
+
